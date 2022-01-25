@@ -1,7 +1,7 @@
 Machine Learning Projects
 =========================
 
-This repository will contain projects involving the three main machine learning models: Regression, Classification, and Clustering.
+This repository will contain projects involving the three main types of machine learning models: Regression, Classification, and Clustering.  
 **Language(s):** Python  
 **Package(s):** Scikit-Learn, Pandas, Seaborn  
 **Software:** Jupyter Notebooks
