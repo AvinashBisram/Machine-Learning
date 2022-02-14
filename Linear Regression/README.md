@@ -80,6 +80,7 @@ GridSearchCV was used to find the optimal hyperparameters for our model (_alpha_
 * An alpha value of 100 and l1_ratio of 1.0 (full Lasso Regularization) were found to be the optimal hyperparameters.
 
 The new optimized model was fit on the training data and the calculated beta coefficients for each feature were compared and visualized using a bar plot.  
+<br>
 The absolute value coefficients can be seen below:  
 ![Visualization of Absolute Value Beta Coefficients](./readMe%20images/absolute_coefficients_viz.PNG)
 
