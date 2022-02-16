@@ -7,6 +7,8 @@ Predicting Insurance Costs with Multiple Linear Regression
 **Package(s):** Scikit-learn, Pandas, Seaborn, Statsmodels, Joblib  
 **Software:** Jupyter Notebooks  
 
+**Motivation:** This project was created to gain a deeper understanding of the entire ML model creation process starting from EDA and Data Cleaning to choosing the appropriate model, evaluating performance and major assumptions, and finally deploying it for others to use.
+
 Viewing the Project
 -------------------
 The main file for this project is located in the root of this repository named _[Insurance Cost Multiple LinReg.ipynb](./Insurance%20Cost%20Multiple%20LinReg.ipynb)_. If you have **Jupyter Notebooks** installed, you can download the .ipynb file and view it there. If not, you can view the project using Google Colaboratory [here](https://colab.research.google.com/github/AvinashBisram/Machine-Learning/blob/master/Linear%20Regression/Insurance%20Cost%20Multiple%20LinReg.ipynb).  
