@@ -14,4 +14,5 @@ Current Projects:
 Projects Coming Soon:
 ---------------------
 * **Poison Mushroom Classification**: Compares the performance of 7 Classification models (Logistic Regression, KNN, SVM, Single Decision Tree, Random Forest, AdaBoost, and GradientBoost) in predicting whether a mushroom is poisonous given information on appearance, odor, habitat, and more.
+* **Polynomial Regression**: Creating a non-linear regression model capable of accurately predicting a continuous outcome based on labeled historical data.
 * **Clustering**: Compares 2 Machine Learning models (K-Means and DBSCAN) on their ability to group unlabeled data based on feature similarities.
