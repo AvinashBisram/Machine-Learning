@@ -1,13 +1,17 @@
 Machine Learning Projects
 =========================
 
-This repository will contain projects involving the three main types of machine learning models: Regression, Classification, and Clustering.  
+This repository will contain projects involving the three main types of machine learning models: Regression, Classification, and Clustering.
+<br>  
 **Language(s):** Python  
-**Package(s):** Scikit-Learn, Pandas, Seaborn  
+**Package(s):** Scikit-learn, Pandas, Seaborn, Statsmodels, Joblib  
 **Software:** Jupyter Notebooks
+
+Current Projects:
+-----------------
+* [Predicting Insurance Costs with Multiple Linear Regression](./Linear%20Regression): Creates, evaluates, and deploys a Multiple Linear Regression model capable of predicting insurance costs based on patient information (age, sex, bmi, smoking status, number of children, and region of residence). 
 
 Projects Coming Soon:
 ---------------------
-* **Regression**: Compares the performance of 3 Regression models (Linear, Polynomial, and Logistic) in predicting continuous outcomes based on historic labeled data (evaluation metrics: Mean Absolute Error, and Root Mean Squared Error).
-* **Classification**: Compares the performance of 5 Classification models (KNN, SVM, Single Decision Tree, Random Forest, AdaBoost, and GradientBoost) in predicting categorical outcomes based on historic labeled data (evaluation metrics: precision, recall, F1-score, and accuracy).
-* **Clustering**: Implements 2 Clustering models (K-means, and DBSCAN) to group categorical outcomes based on their various fields.
+* **Poison Mushroom Classification**: Compares the performance of 7 Classification models (Logistic Regression, KNN, SVM, Single Decision Tree, Random Forest, AdaBoost, and GradientBoost) in predicting whether a mushroom is poisonous given information on appearance, odor, habitat, and more.
+* **Clustering**: Compares 2 Machine Learning models (K-Means and DBSCAN) on their ability to group unlabeled data based on feature similarities.
