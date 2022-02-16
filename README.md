@@ -1,7 +1,7 @@
 Machine Learning Projects
 =========================
 
-This repository will contain projects involving the three main types of machine learning models: Regression, Classification, and Clustering.
+This repository contains Python projects demonstrating the three main types of machine learning models: Regression, Classification, and Clustering.
 <br>  
 **Language(s):** Python  
 **Package(s):** Scikit-learn, Pandas, Seaborn, Statsmodels, Joblib  
