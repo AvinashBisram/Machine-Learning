@@ -119,15 +119,15 @@ Therefore, a Multiple Linear Regression model was not valid for the dataset in i
 
 Model Deployment
 -----------------
-Although our model didn't pass all major assumptions, Python's **Joblib** packagea was used to demonstrate how one could deploy and load the final model to make new predictions.
+Although our model didn't pass all major assumptions, Python's **Joblib** package was used to demonstrate how one could deploy and load the final model to make new predictions.
 * The best estimator ElasticNet model was created and dumped with joblib, along with a StandardScaler (fit-transformed with all X records) and the column names (after dummy encoding) as .pkl files.
 * New values for each independent feature were scaled and provided to a newly loaded model to make a prediction.
-* Values given to model (before scaling): {age:35, bmi:18.5, 'children':0, 'sex_male':1, 'smoker_yes':0, 'region_northwest':0, 'region_southeast':0, 'region_southwest:0}. Predicted Insurance Cost = $3328.67.
+* Values given to model (before scaling): {'age':35, 'bmi':18.5, 'children':0, 'sex_male':1, 'smoker_yes':0, 'region_northwest':0, 'region_southeast':0, 'region_southwest':0}. Predicted Insurance Cost = $3328.67.
 
 
 Next Steps
 -----------
 If I wanted to expand on this project in the future I would...
-* Create a better performing Regression model addressing the issues found in our major assumption tests
-* Learn more about the benefits and drawbacks of different tests for each assumption
-* Deploy the model as an API or web software
+* Create a better performing Regression model addressing the issues found in our major assumption tests.
+* Learn more about the benefits and drawbacks of different tests for each assumption.
+* Deploy the model as an API or web software.
