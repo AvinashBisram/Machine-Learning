@@ -91,6 +91,7 @@ Evaluating Performance
 The ElasticNet model was used to make predictions with the X_test records and overall performance was evaluated based on Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).  
 MAE = 4351.718954689854  
 RMSE = 6559.715600271675  
+R-squared = 0.7459423182257465
 <br>
 The meaning of these metrics in the context of the problem were discussed relative to the statistical description of all y_test values and real-life intuition.
 
